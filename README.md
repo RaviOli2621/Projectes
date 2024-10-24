@@ -1,2 +1,3 @@
 # Projectes
 Projectes tant personals com per part de la educació 
+Subir: TDR,Aplicación con juegos diversos de DAW1, todos los proyectos de la asignatura Proyectos, practica larga de Xavi(al acabar)...
